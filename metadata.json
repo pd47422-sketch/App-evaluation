@@ -1,0 +1,6 @@
+{
+  "name": "EvalDocente",
+  "description": "Sistema interactivo de evaluación docente para niveles de primaria, secundaria y preparatoria, con sistema de calificaciones, rúbricas dinámicas, recolección de comentarios anónimos y reportes analíticos para descargar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
